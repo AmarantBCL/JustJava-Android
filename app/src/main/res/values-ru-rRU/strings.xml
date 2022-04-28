@@ -2,7 +2,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Just Java</string>
     <string name="thank_you">Спасибо!</string>
-    <string name="toppings">ИНГРЕДИЕНТЫ</string>
+    <string name="toppings">Ингредиенты</string>
     <string name="order_summary_name">Имя: <xliff:g id="Name" example="Валера">%s</xliff:g></string>
     <string name="order_summary_cream">Добавить взбитые сливки?</string>
     <string name="order_summary_chocolate">Добавить шоколад?</string>
@@ -10,8 +10,8 @@
     <string name="order_summary_total">Итого: <xliff:g id="Name">%d</xliff:g>$</string>
     <string name="whipped_cream">Взбитые сливки</string>
     <string name="chocolate">Шоколад</string>
-    <string name="quantity">КОЛИЧЕСТВО</string>
-    <string name="order">ЗАКАЗАТЬ</string>
+    <string name="quantity">Количество</string>
+    <string name="order">Заказать</string>
     <string name="name">Имя</string>
     <string name="order_info">Just Java заказ для <xliff:g id="Name">%s</xliff:g></string>
     <string name="make_order">Сделайте заказ!</string>
